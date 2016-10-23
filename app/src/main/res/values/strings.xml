@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MisMapas</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_one">Map</string>
+    <string name="title_activity_map_dos">Map</string>
+    <string name="title_activity_map_tres">Map</string>
+
+    <string name="ir_roerick">Ir a Roerik Café</string>
+    <string name="ir_texas">Ir a Texas Burger</string>
+    <string name="ir_santa_fe">Ir a SantaFe</string>
+    <string name="ir_bilioteca">Ir a Biblioteca</string>
+</resources>
